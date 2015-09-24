@@ -21,4 +21,7 @@ export PATH=$MINIMALIST/bin:$MINIMALIST/Linux-X86/bin:$PATH
 export LD_LIBRARY_PATH=$MINIMALIST/Linux-X86/lib:$LD_LIBRART_PATH
 EOT
 
+
+sudo apt-get -y install gv
+
 echo "MINIMALIST installed successfully!"
