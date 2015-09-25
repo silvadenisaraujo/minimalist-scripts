@@ -22,6 +22,6 @@ export LD_LIBRARY_PATH=$MINIMALIST/Linux-X86/lib:$LD_LIBRART_PATH
 EOT
 
 
-sudo apt-get -y install gv
+sudo apt-get -y install gv graphviz
 
 echo "MINIMALIST installed successfully!"
